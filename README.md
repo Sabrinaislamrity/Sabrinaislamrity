@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sabrina Islam Rity</h1>
 <h3 align="center"># 🧕 About Me I am a passionate and detail-oriented web developer with 1 year of experience in front-end development and strong knowledge of full-stack technologies. I enjoy building user-friendly, responsive applications that solve real-world problems.</h3>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 🔭 I’m currently working on [Tour Booking Portal using the MERN stack](https://assingment-11-clint-side.web.app/)
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
@@ -8,6 +11,8 @@
 - 👯 I’m looking to collaborate on [Hekto](https://hekto-dusky.vercel.app/)
 
 - 📫 How to reach me **sabrinaislamrity@gmail.com**
+
+
 
 ## 📂 Recent Projects
 
