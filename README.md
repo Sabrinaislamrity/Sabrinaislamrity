@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **sabrinaislamrity@gmail.com**
 
+## 📂 Recent Projects
+
+| 🧠 Project Name | 🐞 Issues | ⚙️ Technologies |
+|----------------|-----------|----------------|
+| [Tour Booking Portal](https://assingment-11-clint-side.web.app/) <br> [GitHub Repo](https://github.com/Sabrinaislamrity/e-commerce) | ![Issues](https://img.shields.io/github/issues/Sabrinaislamrity/e-commerce) | MERN • Firebase • Tailwind |
+| [Hekto UI](https://hekto-dusky.vercel.app/) <br> [GitHub Repo](https://github.com/Sabrinaislamrity/Hekto) | ![Issues](https://img.shields.io/github/issues/Sabrinaislamrity/Hekto) | React • Vite • Tailwind |
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
