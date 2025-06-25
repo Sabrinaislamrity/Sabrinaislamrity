@@ -46,3 +46,12 @@
 
 ![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabrinaislamrity&show_icons=true&count_private=true&include_all_commits=true&theme=default&cache_seconds=30)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinaislamrity&layout=compact&theme=default&cache_seconds=30)
+
+
+
+## 🐍 Snake On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
