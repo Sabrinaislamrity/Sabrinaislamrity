@@ -1,3 +1,5 @@
+<img src="https://github.com/Sabrinaislamrity/Sabrinaislamrity/blob/main/banner.png" alt="banner" style="width:100%;" />
+
 <h1 align="center">Hi 👋, I'm Sabrina Islam Rity</h1>
 <h3 align="center"># 🧕 About Me I am a passionate and detail-oriented web developer with 1 year of experience in front-end development and strong knowledge of full-stack technologies. I enjoy building user-friendly, responsive applications that solve real-world problems.</h3>
 
