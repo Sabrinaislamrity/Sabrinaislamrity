@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo" src="https://github.com/user-attachments/assets/4be0e6e2-5011-4df7-8323-29d4d21e97ca" />
+<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo" src="https://github.com/user-attachments/assets/Screenshot%202026-02-22%20121656.png" />
 
 
 <h1 align="center">Hi 👋, I'm Sabrina Islam </h1>
